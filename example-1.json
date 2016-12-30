@@ -2,61 +2,61 @@
 [
   {
 	"make": "Honda",
-	"model": {
-		"accord",
-		"civic",
-		"cr-v",
+	"model": { 
+		"accord";
+		"civic";
+		"cr-v";
 		"hr-v"
-		}
+		},
 	"color": {
-		"black",
-		"blue",
-		"red",
+		"black";
+		"blue";
+		"red";
 		"white"
 		}
 	},
 	{
 	"make": "Acura",
 	"model": {
-		"c3",
-		"c4",
-		"c5",
+		"c3";
+		"c4";
+		"c5";
 		"c6"
-		}
+		},
 	"color": {
-		"black",
-		"silver",
-		"gold",
+		"black";
+		"silver";
+		"gold";
 		"white"
 		}
 	},
 	{
 	"make": "Toyota",
 	"model": {
-		"camery",
-		"carola",
-		"highlander",
+		"camery";
+		"carola";
+		"highlander";
 		"siena"
-		}
+		},
 	"color": {
-		"black",
-		"golden",
-		"grey",
+		"black";
+		"golden";
+		"grey";
 		"white"
 		}
 	},
 	{
-	"make": "Lexus",
+	"make": "Lexus";
 	"model": {
-		"es250",
-		"es350",
-		"gs250",
-		"lx450"
+		"es250";
+		"es350";
+		"gs250";
+		"lx450";
 	}
 	"color": {
-		"black",
-		"gold",
-		"silver",
+		"black";
+		"gold";
+		"silver";
 		"white"
 		}
 	}
